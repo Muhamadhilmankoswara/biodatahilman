@@ -5,3 +5,8 @@ Jenis Kelamin: Laki-Laki
 Tempat & Tanggal Lahir: Bandung, 11 Januari 2005
 Hobi: Bermain Game, Bermain Gitar , Berkendara
 Cita-Cita: Programmer, Profesional Player Esport
+Riwayat pendidikan:
+TK AL-Kuromah
+MI-YPPI
+MTs AL-Istiqomah
+SMK Prakarya Internasional
